@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Maldonado</h1>
 <h3 align="center">A software engineer who enjoys to work on the Back-end side of apps.</h3>
 
-- 🌱 I’m currently learning **Django and C++17**
+- 🌱 I’m currently learning **Vue.js and C++17**
 
 - 📚 I'm currently taking the **IBM Back-End Development Professional Certificate**
 
