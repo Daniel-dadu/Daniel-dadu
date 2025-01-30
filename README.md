@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **Vue.js and C++17**
 
-- 📚 I'm currently taking the **IBM Back-End Development Professional Certificate**
+- 📚 I'm developing an app (web and mobile) for **Personal Expense Management** that uses **AI**
 
-- 💙 I love to code in **C++**
+- 💙 I love to code in **C++ and JavaScript**
 
 - 📫 Reach out to me at **dadu9494@gmail.com** or through my **[LinkedIn profile](https://linkedin.com/in/danieldadu)**
-
-- 📄 Check out my **[Resume](https://www.linkedin.com/posts/danieldadu_my-resume-activity-7092572795905187843-5GPd?utm_source=share&utm_medium=member_desktop)** to learn more about my skills and experience
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
