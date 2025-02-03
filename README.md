@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue.js and C++17**
 
-- 📚 I'm developing an app (web and mobile) for **Personal Expense Management** that uses **AI**
+- 📚 I'm developing an app (web and mobile) for **Personal Expense Management** enhanced with **AI**
 
 - 💙 I love to code in **C++ and JavaScript**
 
