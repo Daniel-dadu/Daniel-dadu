@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 <h2 align="center">Hey! 👋</h2>
-<h4 align="center">I'm a Full-stack Software Engineer who loves to code and build products that help people.</h4>
+<h3 align="center">I'm a Full-stack Software Engineer who loves to code and build products that help people.</h3>
 
 - 🌱 I'm currently learning **Go**
 
