@@ -2,7 +2,7 @@
 <h2 align="center">Hey! 👋</h2>
 <h3 align="center">I'm a Full-stack Software Engineer who loves to code and build impactful projects</h3>
 
-- 🌱 I'm currently learning **Go**
+- 🌱 I'm currently learning **C#**
 
 - 🚀 I'm developing an app (web and mobile) for **Personal Expense Management** enhanced with **AI**
 
